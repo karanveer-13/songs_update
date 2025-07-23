@@ -1,0 +1,36 @@
+name: Weekly JSON Update
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6 AM UTC
+  workflow_dispatch:      # Manual trigger too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4 selenium
+
+    - name: Install ChromeDriver
+      uses: nanasess/setup-chromedriver@v2
+
+    - name: Run script
+      run: python main.py
+
+    - name: Commit updated JSON
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add songs_with_images.json
+        git commit -m "Weekly JSON update"
+        git push
