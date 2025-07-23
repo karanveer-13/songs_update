@@ -1,3 +1,3 @@
 # main.py
-import scrape_spotify
-import get_images
+import scraper
+import images_scrapper
