@@ -33,5 +33,4 @@ jobs:
         git config user.email "github-actions@github.com"
         git add songs_with_images.json
         git commit -m "Weekly JSON update" || echo "No changes to commit"
-        git push https://karanveer-13:${{ secrets.SONGSTK }}@github.com/karanveer-13/songs_update.git HEAD:main
-
+        git push https://x-access-token:${{ secrets.SONGSTK }}@github.com/karanveer-13/songs_update.git HEAD:main
