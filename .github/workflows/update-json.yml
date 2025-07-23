@@ -2,7 +2,7 @@ name: Weekly JSON Update
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 6 AM UTC
+    - cron: '0 6 * * 2'  # Every Tuesday at 6 AM UTC
   workflow_dispatch:      # Manual trigger too
 
 jobs:
