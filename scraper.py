@@ -3,34 +3,39 @@ from bs4 import BeautifulSoup
 import json
 
 URL = "https://kworb.net/spotify/country/global_weekly_totals.html"
-response = requests.get(URL)
+
+# Add headers and explicitly handle encoding
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+}
+
+response = requests.get(URL, headers=headers)
+response.encoding = 'utf-8'  # Force UTF-8 encoding
+
 soup = BeautifulSoup(response.text, 'html.parser')
-
 songs = []
-rows = soup.select('table tbody tr')  # Select all rows inside the table
+rows = soup.select('table tbody tr')
 
-for i, row in enumerate(rows[:200]):  # Limit to first 200
+for i, row in enumerate(rows[:200]):
     cols = row.find_all('td')
     if len(cols) < 7:
-        continue  # skip malformed rows
+        continue
     
-    # Parse artist and song from the first <td>
     artist_title_div = cols[0].find('div')
     if not artist_title_div:
         continue
     
     links = artist_title_div.find_all('a')
     if len(links) < 2:
-        continue  # skip if either artist or title is missing
+        continue
     
     artist = links[0].text.strip()
     song = links[1].text.strip()
     
-    # Parse weeks in top 200
     try:
         wks = int(cols[1].text.strip())
     except ValueError:
-        wks = None  # fallback if parsing fails
+        wks = None
     
     songs.append({
         "artist": artist,
