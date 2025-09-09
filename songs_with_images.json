@@ -2,13 +2,13 @@
   {
     "artist": "The Weeknd",
     "song": "Blinding Lights",
-    "weeks_in_top_200": 300,
+    "weeks_in_top_200": 301,
     "image_url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
   },
   {
     "artist": "Ed Sheeran",
     "song": "Shape of You",
-    "weeks_in_top_200": 377,
+    "weeks_in_top_200": 378,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96"
   },
   {
@@ -20,7 +20,7 @@
   {
     "artist": "Lewis Capaldi",
     "song": "Someone You Loved",
-    "weeks_in_top_200": 330,
+    "weeks_in_top_200": 331,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2"
   },
   {
@@ -32,7 +32,7 @@
   {
     "artist": "The Neighbourhood",
     "song": "Sweater Weather",
-    "weeks_in_top_200": 286,
+    "weeks_in_top_200": 287,
     "image_url": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921"
   },
   {
@@ -50,20 +50,20 @@
   {
     "artist": "Ed Sheeran",
     "song": "Perfect",
-    "weeks_in_top_200": 410,
+    "weeks_in_top_200": 411,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96"
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Starboy",
+    "weeks_in_top_200": 271,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452"
   },
   {
     "artist": "The Kid LAROI",
     "song": "Stay",
     "weeks_in_top_200": 175,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02b4d59e6fa7e5e7cbc57ac33a"
-  },
-  {
-    "artist": "The Weeknd",
-    "song": "Starboy",
-    "weeks_in_top_200": 270,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02809ac854713e65ce1f4d4bdd"
   },
   {
     "artist": "Glass Animals",
@@ -74,37 +74,37 @@
   {
     "artist": "Billie Eilish",
     "song": "BIRDS OF A FEATHER",
-    "weeks_in_top_200": 67,
+    "weeks_in_top_200": 68,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62"
   },
   {
     "artist": "Lady Gaga",
     "song": "Die With A Smile",
-    "weeks_in_top_200": 54,
+    "weeks_in_top_200": 55,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45"
   },
   {
     "artist": "Drake",
     "song": "One Dance",
-    "weeks_in_top_200": 278,
+    "weeks_in_top_200": 279,
     "image_url": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c"
   },
   {
     "artist": "Tom Odell",
     "song": "Another Love",
-    "weeks_in_top_200": 229,
+    "weeks_in_top_200": 230,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02c894dbea54813d89d2e92f12"
   },
   {
     "artist": "Arctic Monkeys",
     "song": "I Wanna Be Yours",
-    "weeks_in_top_200": 164,
+    "weeks_in_top_200": 165,
     "image_url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163"
   },
   {
     "artist": "Taylor Swift",
     "song": "Cruel Summer",
-    "weeks_in_top_200": 134,
+    "weeks_in_top_200": 135,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647"
   },
   {
@@ -128,8 +128,14 @@
   {
     "artist": "Coldplay",
     "song": "Yellow",
-    "weeks_in_top_200": 245,
+    "weeks_in_top_200": 246,
     "image_url": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a"
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "Espresso",
+    "weeks_in_top_200": 73,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02255ec9ddd8af81fd9aba2ced"
   },
   {
     "artist": "Miley Cyrus",
@@ -138,15 +144,9 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02cd222052a2594be29a6616b5"
   },
   {
-    "artist": "Sabrina Carpenter",
-    "song": "Espresso",
-    "weeks_in_top_200": 72,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02255ec9ddd8af81fd9aba2ced"
-  },
-  {
     "artist": "Vance Joy",
     "song": "Riptide",
-    "weeks_in_top_200": 368,
+    "weeks_in_top_200": 369,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02d3ce97395ff522b0d70c1094"
   },
   {
@@ -158,44 +158,44 @@
   {
     "artist": "Benson Boone",
     "song": "Beautiful Things",
-    "weeks_in_top_200": 84,
+    "weeks_in_top_200": 85,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02bef221ea02a821e7feeda9cf"
   },
   {
     "artist": "The Chainsmokers",
     "song": "Something Just Like This",
-    "weeks_in_top_200": 274,
+    "weeks_in_top_200": 275,
     "image_url": "https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94"
   },
   {
     "artist": "The Weeknd",
     "song": "Die For You",
-    "weeks_in_top_200": 189,
+    "weeks_in_top_200": 190,
     "image_url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452"
   },
   {
     "artist": "Jung Kook",
     "song": "Seven",
-    "weeks_in_top_200": 111,
+    "weeks_in_top_200": 112,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02741fd4807f442af3f7359316"
   },
   {
     "artist": "OneRepublic",
     "song": "Counting Stars",
-    "weeks_in_top_200": 378,
+    "weeks_in_top_200": 379,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02e80e7dbce3996a1ae5967751"
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Closer",
+    "weeks_in_top_200": 236,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02397679a014fbcbaebc027542"
   },
   {
     "artist": "Dua Lipa",
     "song": "Don't Start Now",
     "weeks_in_top_200": 164,
     "image_url": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f"
-  },
-  {
-    "artist": "The Chainsmokers",
-    "song": "Closer",
-    "weeks_in_top_200": 235,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02495ce6da9aeb159e94eaa453"
   },
   {
     "artist": "Hozier",
@@ -218,20 +218,26 @@
   {
     "artist": "Lord Huron",
     "song": "The Night We Met",
-    "weeks_in_top_200": 149,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f"
+    "weeks_in_top_200": 150,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02fe1b265f6d779da1af46533e"
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "One Of The Girls",
+    "weeks_in_top_200": 100,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262"
   },
   {
     "artist": "Elton John",
     "song": "Cold Heart - PNAU Remix",
     "weeks_in_top_200": 145,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02523458c391fe8180a19a1069"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e029f5cce8304c42d3a5463fd23"
   },
   {
-    "artist": "The Weeknd",
-    "song": "One Of The Girls",
-    "weeks_in_top_200": 99,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262"
+    "artist": "Teddy Swims",
+    "song": "Lose Control",
+    "weeks_in_top_200": 95,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e021d856e66d33e22746c21a09c"
   },
   {
     "artist": "Manuel Turizo",
@@ -246,10 +252,10 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02f54b99bf27cda88f4a7403ce"
   },
   {
-    "artist": "Teddy Swims",
-    "song": "Lose Control",
-    "weeks_in_top_200": 94,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e021d856e66d33e22746c21a09c"
+    "artist": "Arctic Monkeys",
+    "song": "505",
+    "weeks_in_top_200": 191,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90"
   },
   {
     "artist": "Juice WRLD",
@@ -258,10 +264,10 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4"
   },
   {
-    "artist": "Arctic Monkeys",
-    "song": "505",
-    "weeks_in_top_200": 190,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90"
+    "artist": "ROSÉ",
+    "song": "APT.",
+    "weeks_in_top_200": 46,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0236032cb4acd9df050bc2e197"
   },
   {
     "artist": "Post Malone",
@@ -276,12 +282,6 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce"
   },
   {
-    "artist": "ROSÉ",
-    "song": "APT.",
-    "weeks_in_top_200": 45,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0236032cb4acd9df050bc2e197"
-  },
-  {
     "artist": "David Guetta",
     "song": "I'm Good (Blue)",
     "weeks_in_top_200": 117,
@@ -290,19 +290,19 @@
   {
     "artist": "Tate McRae",
     "song": "greedy",
-    "weeks_in_top_200": 96,
+    "weeks_in_top_200": 97,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0222fd802bc61db666c7c81aa8"
   },
   {
     "artist": "Jimin",
     "song": "Who",
-    "weeks_in_top_200": 58,
+    "weeks_in_top_200": 59,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
   {
     "artist": "Eminem",
     "song": "Without Me",
-    "weeks_in_top_200": 211,
+    "weeks_in_top_200": 212,
     "image_url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4"
   },
   {
@@ -314,14 +314,20 @@
   {
     "artist": "Coldplay",
     "song": "Viva La Vida",
-    "weeks_in_top_200": 161,
+    "weeks_in_top_200": 162,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e"
   },
   {
     "artist": "Tyler, The Creator",
     "song": "See You Again",
-    "weeks_in_top_200": 131,
+    "weeks_in_top_200": 132,
     "image_url": "https://i.scdn.co/image/ab67616d00001e028940ac99f49e44f59e6f7fb3"
+  },
+  {
+    "artist": "The Police",
+    "song": "Every Breath You Take",
+    "weeks_in_top_200": 195,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e"
   },
   {
     "artist": "The Weeknd",
@@ -330,16 +336,10 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
   },
   {
-    "artist": "The Police",
-    "song": "Every Breath You Take",
-    "weeks_in_top_200": 194,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e"
-  },
-  {
     "artist": "FloyyMenor",
     "song": "Gata Only",
-    "weeks_in_top_200": 81,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02c4583f3ad76630879a75450a"
+    "weeks_in_top_200": 82,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0213670f209a9a9a7876c315e1"
   },
   {
     "artist": "Lady Gaga",
@@ -350,13 +350,13 @@
   {
     "artist": "Chappell Roan",
     "song": "Good Luck, Babe!",
-    "weeks_in_top_200": 72,
+    "weeks_in_top_200": 73,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0291b4bc7c88d91a42e0f3a8b7"
   },
   {
     "artist": "Bruno Mars",
     "song": "Locked out of Heaven",
-    "weeks_in_top_200": 197,
+    "weeks_in_top_200": 198,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46"
   },
   {
@@ -366,34 +366,34 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02ec96e006b8bdfc582610ec13"
   },
   {
+    "artist": "Hozier",
+    "song": "Too Sweet",
+    "weeks_in_top_200": 76,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02a5aab55aa65e5f6bd19564a2"
+  },
+  {
+    "artist": "The Walters",
+    "song": "I Love You So",
+    "weeks_in_top_200": 168,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f"
+  },
+  {
     "artist": "Ruth B.",
     "song": "Dandelions",
     "weeks_in_top_200": 173,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0297e971f3e53475091dc8d707"
   },
   {
-    "artist": "Hozier",
-    "song": "Too Sweet",
-    "weeks_in_top_200": 75,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02a5aab55aa65e5f6bd19564a2"
-  },
-  {
-    "artist": "The Walters",
-    "song": "I Love You So",
-    "weeks_in_top_200": 167,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f"
+    "artist": "Kendrick Lamar",
+    "song": "Not Like Us",
+    "weeks_in_top_200": 70,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad"
   },
   {
     "artist": "Lil Nas X",
     "song": "INDUSTRY BABY",
     "weeks_in_top_200": 81,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02ba26678947112dff3c3158bf"
-  },
-  {
-    "artist": "Kendrick Lamar",
-    "song": "Not Like Us",
-    "weeks_in_top_200": 69,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad"
   },
   {
     "artist": "Olivia Rodrigo",
@@ -404,7 +404,7 @@
   {
     "artist": "Ed Sheeran",
     "song": "Photograph",
-    "weeks_in_top_200": 303,
+    "weeks_in_top_200": 304,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0213b3e37318a0c247b550bccd"
   },
   {
@@ -428,8 +428,14 @@
   {
     "artist": "Cigarettes After Sex",
     "song": "Apocalypse",
-    "weeks_in_top_200": 163,
+    "weeks_in_top_200": 164,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc"
+  },
+  {
+    "artist": "Djo",
+    "song": "End of Beginning",
+    "weeks_in_top_200": 81,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1"
   },
   {
     "artist": "Dua Lipa",
@@ -438,28 +444,22 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f"
   },
   {
-    "artist": "Djo",
-    "song": "End of Beginning",
-    "weeks_in_top_200": 80,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1"
-  },
-  {
     "artist": "Sabrina Carpenter",
     "song": "Please Please Please",
-    "weeks_in_top_200": 64,
+    "weeks_in_top_200": 65,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02de84adf0e48248ea2d769c3e"
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "we can't be friends (wait for your love)",
+    "weeks_in_top_200": 78,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02c75a14e746ffe2030e8cd5da"
   },
   {
     "artist": "Ariana Grande",
     "song": "7 rings",
     "weeks_in_top_200": 143,
     "image_url": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8"
-  },
-  {
-    "artist": "Ariana Grande",
-    "song": "we can't be friends (wait for your love)",
-    "weeks_in_top_200": 77,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02c75a14e746ffe2030e8cd5da"
   },
   {
     "artist": "Wham!",
@@ -474,6 +474,12 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02806c160566580d6335d1f16c"
   },
   {
+    "artist": "Kendrick Lamar",
+    "song": "All The Stars",
+    "weeks_in_top_200": 116,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888"
+  },
+  {
     "artist": "XXXTENTACION",
     "song": "Jocelyn Flores",
     "weeks_in_top_200": 217,
@@ -486,28 +492,22 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e0270dbc9f47669d120ad874ec1"
   },
   {
-    "artist": "Kendrick Lamar",
-    "song": "All The Stars",
-    "weeks_in_top_200": 115,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888"
-  },
-  {
     "artist": "Taylor Swift",
     "song": "Anti-Hero",
     "weeks_in_top_200": 79,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5"
   },
   {
+    "artist": "Bruno Mars",
+    "song": "That's What I Like",
+    "weeks_in_top_200": 154,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5"
+  },
+  {
     "artist": "Queen",
     "song": "Bohemian Rhapsody - Remastered 2011",
     "weeks_in_top_200": 224,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a"
-  },
-  {
-    "artist": "Bruno Mars",
-    "song": "That's What I Like",
-    "weeks_in_top_200": 153,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02232711f7d66a1e19e89e28c5"
   },
   {
     "artist": "Bizarrap",
@@ -522,10 +522,22 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5"
   },
   {
+    "artist": "Billie Eilish",
+    "song": "WILDFLOWER",
+    "weeks_in_top_200": 68,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62"
+  },
+  {
     "artist": "Justin Bieber",
     "song": "Ghost",
     "weeks_in_top_200": 134,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431"
+  },
+  {
+    "artist": "Macklemore & Ryan Lewis",
+    "song": "Can't Hold Us",
+    "weeks_in_top_200": 163,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0298a02fef3a8b1d80a0f164ec"
   },
   {
     "artist": "Lil Nas X",
@@ -540,18 +552,6 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02d304ba2d71de306812eebaf4"
   },
   {
-    "artist": "Billie Eilish",
-    "song": "WILDFLOWER",
-    "weeks_in_top_200": 67,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62"
-  },
-  {
-    "artist": "Macklemore & Ryan Lewis",
-    "song": "Can't Hold Us",
-    "weeks_in_top_200": 162,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0298a02fef3a8b1d80a0f164ec"
-  },
-  {
     "artist": "Travis Scott",
     "song": "SICKO MODE",
     "weeks_in_top_200": 147,
@@ -560,14 +560,26 @@
   {
     "artist": "Bruno Mars",
     "song": "When I Was Your Man",
-    "weeks_in_top_200": 185,
+    "weeks_in_top_200": 186,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46"
   },
   {
     "artist": "Shaboozey",
     "song": "A Bar Song (Tipsy)",
-    "weeks_in_top_200": 72,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0280d86d636244b72a3a1eede2"
+    "weeks_in_top_200": 73,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e026eca6c64448f86e9c052e59c"
+  },
+  {
+    "artist": "KAROL G",
+    "song": "Si Antes Te Hubiera Conocido",
+    "weeks_in_top_200": 63,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e"
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "Just the Way You Are",
+    "weeks_in_top_200": 146,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b"
   },
   {
     "artist": "Mitski",
@@ -579,25 +591,13 @@
     "artist": "SAINt JHN",
     "song": "Roses - Imanbek Remix",
     "weeks_in_top_200": 97,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0"
-  },
-  {
-    "artist": "KAROL G",
-    "song": "Si Antes Te Hubiera Conocido",
-    "weeks_in_top_200": 62,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02491678beaffcefac517a699e"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02f87c489c4c6d3b429c12c2ba"
   },
   {
     "artist": "BTS",
     "song": "Dynamite",
     "weeks_in_top_200": 113,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5"
-  },
-  {
-    "artist": "Bruno Mars",
-    "song": "Just the Way You Are",
-    "weeks_in_top_200": 145,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0217db30ce3f081d6818a8ad49"
   },
   {
     "artist": "Maroon 5",
@@ -615,7 +615,7 @@
     "artist": "24kGoldn",
     "song": "Mood",
     "weeks_in_top_200": 91,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0284c53fa832dfa265192419c5"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0260036f58bbb4b25a7a6f2712"
   },
   {
     "artist": "Ed Sheeran",
@@ -633,7 +633,13 @@
     "artist": "Bad Bunny",
     "song": "DÁKITI",
     "weeks_in_top_200": 103,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab"
+  },
+  {
+    "artist": "Keane",
+    "song": "Somewhere Only We Know",
+    "weeks_in_top_200": 145,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02f806a7942ff458ea7653edd7"
   },
   {
     "artist": "Sam Smith",
@@ -642,16 +648,16 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02a935e4689f15953311772cc4"
   },
   {
-    "artist": "Keane",
-    "song": "Somewhere Only We Know",
-    "weeks_in_top_200": 144,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02f806a7942ff458ea7653edd7"
-  },
-  {
     "artist": "Doja Cat",
     "song": "Kiss Me More",
     "weeks_in_top_200": 80,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02be841ba4bc24340152e3a79a"
+  },
+  {
+    "artist": "The Goo Goo Dolls",
+    "song": "Iris",
+    "weeks_in_top_200": 105,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02eda9478c39a21e1cdc6609ca"
   },
   {
     "artist": "Marshmello",
@@ -664,12 +670,6 @@
     "song": "Havana",
     "weeks_in_top_200": 114,
     "image_url": "https://i.scdn.co/image/ab67616d00001e026eb0b9e73adcf04e4ed3eca4"
-  },
-  {
-    "artist": "The Goo Goo Dolls",
-    "song": "Iris",
-    "weeks_in_top_200": 104,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02eda9478c39a21e1cdc6609ca"
   },
   {
     "artist": "Rema",
@@ -690,6 +690,12 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02cb76604d9c5963544cf5be64"
   },
   {
+    "artist": "Gracie Abrams",
+    "song": "That’s So True",
+    "weeks_in_top_200": 46,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf"
+  },
+  {
     "artist": "John Legend",
     "song": "All of Me",
     "weeks_in_top_200": 310,
@@ -702,16 +708,22 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02f1aad814a40ec7419c234242"
   },
   {
-    "artist": "Gracie Abrams",
-    "song": "That’s So True",
-    "weeks_in_top_200": 45,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf"
+    "artist": "The Killers",
+    "song": "Mr. Brightside",
+    "weeks_in_top_200": 204,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d"
   },
   {
     "artist": "Ed Sheeran",
     "song": "Thinking out Loud",
     "weeks_in_top_200": 241,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02d08209944468440145f01524"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0213b3e37318a0c247b550bccd"
+  },
+  {
+    "artist": "Gigi Perez",
+    "song": "Sailor Song",
+    "weeks_in_top_200": 55,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02fff34e4e82d7a20e5eaa83ba"
   },
   {
     "artist": "Bad Bunny",
@@ -732,12 +744,6 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163"
   },
   {
-    "artist": "The Killers",
-    "song": "Mr. Brightside",
-    "weeks_in_top_200": 203,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d"
-  },
-  {
     "artist": "Ed Sheeran",
     "song": "Shivers",
     "weeks_in_top_200": 90,
@@ -753,13 +759,13 @@
     "artist": "Ed Sheeran",
     "song": "I Don't Care",
     "weeks_in_top_200": 90,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0223d36bb2f358094e0271c472"
+    "image_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84585af528079e0d096932ba62"
   },
   {
-    "artist": "Gigi Perez",
-    "song": "Sailor Song",
-    "weeks_in_top_200": 54,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02e6065f209e0a01986206bd53"
+    "artist": "Post Malone",
+    "song": "I Had Some Help (Feat. Morgan Wallen)",
+    "weeks_in_top_200": 69,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0297306976e3eb8aad53b754eb"
   },
   {
     "artist": "Imagine Dragons",
@@ -778,12 +784,6 @@
     "song": "One Kiss",
     "weeks_in_top_200": 111,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02d09f96d82310d4d77c14c108"
-  },
-  {
-    "artist": "Post Malone",
-    "song": "I Had Some Help (Feat. Morgan Wallen)",
-    "weeks_in_top_200": 68,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0288208159b1b3c69eefdeb2e0"
   },
   {
     "artist": "DaBaby",
@@ -822,16 +822,16 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02e40c514edddb844439af6201"
   },
   {
+    "artist": "Sabrina Carpenter",
+    "song": "Taste",
+    "weeks_in_top_200": 54,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626"
+  },
+  {
     "artist": "Halsey",
     "song": "Without Me",
     "weeks_in_top_200": 121,
     "image_url": "https://i.scdn.co/image/ab67616d00001e027636e1c9e67eaafc9f49aefd"
-  },
-  {
-    "artist": "Sabrina Carpenter",
-    "song": "Taste",
-    "weeks_in_top_200": 53,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02fd8d7a8d96871e791cb1f626"
   },
   {
     "artist": "Bad Bunny",
@@ -896,7 +896,7 @@
   {
     "artist": "Kendrick Lamar",
     "song": "luther",
-    "weeks_in_top_200": 40,
+    "weeks_in_top_200": 41,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58"
   },
   {
@@ -996,6 +996,18 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb"
   },
   {
+    "artist": "d4vd",
+    "song": "Here With Me",
+    "weeks_in_top_200": 90,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e0264fa1bda999f4fbd2b7c4bb7"
+  },
+  {
+    "artist": "DJ Snake",
+    "song": "Let Me Love You",
+    "weeks_in_top_200": 92,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02212d776c31027c511f0ee3bc"
+  },
+  {
     "artist": "KAROL G",
     "song": "QLONA",
     "weeks_in_top_200": 63,
@@ -1014,16 +1026,16 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce"
   },
   {
-    "artist": "d4vd",
-    "song": "Here With Me",
-    "weeks_in_top_200": 89,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e0264fa1bda999f4fbd2b7c4bb7"
+    "artist": "Linkin Park",
+    "song": "In the End",
+    "weeks_in_top_200": 107,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a"
   },
   {
-    "artist": "DJ Snake",
-    "song": "Let Me Love You",
-    "weeks_in_top_200": 91,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02212d776c31027c511f0ee3bc"
+    "artist": "The Weeknd",
+    "song": "Timeless",
+    "weeks_in_top_200": 49,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61"
   },
   {
     "artist": "Imagine Dragons",
@@ -1038,18 +1050,6 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e02806c160566580d6335d1f16c"
   },
   {
-    "artist": "Linkin Park",
-    "song": "In the End",
-    "weeks_in_top_200": 106,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02e2f039481babe23658fc719a"
-  },
-  {
-    "artist": "The Weeknd",
-    "song": "Timeless",
-    "weeks_in_top_200": 48,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61"
-  },
-  {
     "artist": "Olivia Rodrigo",
     "song": "traitor",
     "weeks_in_top_200": 85,
@@ -1059,7 +1059,7 @@
     "artist": "Steve Lacy",
     "song": "Dark Red",
     "weeks_in_top_200": 128,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e023d2dfa42f771cd458b194979"
+    "image_url": "https://i.scdn.co/image/ab67616d00001e024a6f514da7ab2b81a6f97e72"
   },
   {
     "artist": "Avicii",
@@ -1084,6 +1084,12 @@
     "song": "Jingle Bell Rock",
     "weeks_in_top_200": 56,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02fd56f3c7a294f5cfe51c7b17"
+  },
+  {
+    "artist": "Bad Bunny",
+    "song": "DtMF",
+    "weeks_in_top_200": 35,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
   },
   {
     "artist": "Justin Bieber",
@@ -1114,12 +1120,6 @@
     "song": "death bed",
     "weeks_in_top_200": 79,
     "image_url": "https://i.scdn.co/image/ab67616d00001e02bf01fd0986a195d485922167"
-  },
-  {
-    "artist": "Bad Bunny",
-    "song": "DtMF",
-    "weeks_in_top_200": 34,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411"
   },
   {
     "artist": "Arizona Zervas",
@@ -1170,6 +1170,12 @@
     "image_url": "https://i.scdn.co/image/ab67616d00001e0241aa6776dc15fbd71a2b4557"
   },
   {
+    "artist": "Fleetwood Mac",
+    "song": "Dreams - 2004 Remaster",
+    "weeks_in_top_200": 118,
+    "image_url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b"
+  },
+  {
     "artist": "Michael Bublé",
     "song": "It's Beginning to Look a Lot Like Christmas",
     "weeks_in_top_200": 66,
@@ -1180,12 +1186,6 @@
     "song": "Eastside",
     "weeks_in_top_200": 95,
     "image_url": "https://i.scdn.co/image/ab67616d00001e023154f0bdf9a17385d7afc6ba"
-  },
-  {
-    "artist": "Fleetwood Mac",
-    "song": "Dreams - 2004 Remaster",
-    "weeks_in_top_200": 117,
-    "image_url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b"
   },
   {
     "artist": "Morgan Wallen",
