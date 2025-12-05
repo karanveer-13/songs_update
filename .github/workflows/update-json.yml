@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0   # IMPORTANT: fetch full history so pull works
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -27,10 +29,22 @@ jobs:
     - name: Run script
       run: python main.py
 
+    # ---------------------
+    # 🔥 FIX STARTS HERE
+    # ---------------------
+
+    - name: Pull latest changes
+      run: |
+        git fetch origin main
+        git reset --soft origin/main
+
     - name: Commit updated JSON
       run: |
-        git config user.name "github-actions"
         git config user.email "github-actions@github.com"
+        git config user.name "github-actions"
         git add songs_with_images.json
         git commit -m "Weekly JSON update" || echo "No changes to commit"
+
+    - name: Push changes
+      run: |
         git push https://x-access-token:${{ secrets.SONGSTK }}@github.com/karanveer-13/songs_update.git HEAD:main
